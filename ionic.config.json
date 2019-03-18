@@ -1,0 +1,12 @@
+{
+  "name": "lms_ionic",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ],
+  "id": "cc21b87f"
+}
